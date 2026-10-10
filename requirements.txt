@@ -1,6 +1,0 @@
-streamlit>=1.37,<2
-numpy>=1.26,<3
-pandas>=2.0,<3
-plotly>=5.20,<7
-requests>=2.31,<3
-lxml>=5,<7
